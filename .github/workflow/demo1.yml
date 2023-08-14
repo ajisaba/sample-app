@@ -1,0 +1,6 @@
+name: demo1
+jobs:
+  sample:
+    runs-on: ubuntu-latest
+    steps:
+      - run: echo "This is demo1."
